@@ -2,6 +2,6 @@ openai
 langchain==0.0.352
 faiss-cpu
 tiktoken
-streamlit_chat==0.0.2.2
+streamlit_chat==0.1.1
 streamlit==1.29.0
 scikit-learn
